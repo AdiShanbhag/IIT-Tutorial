@@ -1,9 +1,0 @@
-IF IGN = HIGH THEN
-    IF (DRIV = HIGH AND BELTD = LOW) OR (PASS = HIGH AND BELTP = LOW) THEN
-        ALARM = LOW   // Alarm ON
-    ELSE
-        ALARM = HIGH  // Alarm OFF
-    ENDIF
-ELSE
-    ALARM = HIGH      // Alarm OFF (ignition off)
-ENDIF

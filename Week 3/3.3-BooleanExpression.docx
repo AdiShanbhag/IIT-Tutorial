@@ -1,9 +1,0 @@
-GN = 1 AND
-
-(Driver present AND Driver belt unfastened) OR
-
-(Passenger present AND Passenger belt unfastened)
-
-In Boolean terms (where · = AND, + = OR, overbar = NOT):
-ALARM = ~(IGN⋅(DRIV⋅~BELTD+PASS⋅~BELTP)​)
-	​

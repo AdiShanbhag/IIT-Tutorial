@@ -1,8 +1,0 @@
-| **Signal** | **Meaning when HIGH (1)**   | **Meaning when LOW (0)**      |
-| ---------- | --------------------------- | ----------------------------- |
-| **IGN**    | Ignition ON (car started)   | Ignition OFF                  |
-| **DRIV**   | Driver seat occupied        | Driver seat empty             |
-| **PASS**   | Passenger seat occupied     | Passenger seat empty          |
-| **BELTD**  | Driver seatbelt fastened    | Driver seatbelt unfastened    |
-| **BELTP**  | Passenger seatbelt fastened | Passenger seatbelt unfastened |
-| **ALARM**  | Alarm OFF (no warning)      | Alarm ON (warning triggered)  |
